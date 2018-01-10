@@ -1,4 +1,5 @@
-# capitalone-winter-summit
+# c1-winter-summit
+Attended the Capital One Winter Summit (Jan. 2018).
 Note that I missed the first couple days (was out of the country).
 
 ### 01.09.2018
@@ -8,5 +9,5 @@ Note that I missed the first couple days (was out of the country).
 
 ### 01.10.2018
 * Bot Development with DialogFlow (in browser)
-* [Nessie API](nessie/)
+* [Nessie API](nessie/) (http://api.reimaginebanking.com/documentation)
 * [Android Development](android/)

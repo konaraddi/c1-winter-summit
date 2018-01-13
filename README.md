@@ -1,6 +1,5 @@
-# c1-winter-summit
-Attended the Capital One Winter Summit (Jan. 2018).
-Note that I missed the first couple days (was out of the country).
+# Capital One 2018 Software Engineering Winter Summit
+Attended the Capital One 2018 SWE Winter Summit. Checkout the blog post at https://konaraddio.github.io/experience/2018/01/13/c1-winter-summit.html
 
 ### 01.09.2018
 * [Machine Learning](machine-learning/)
@@ -11,3 +10,7 @@ Note that I missed the first couple days (was out of the country).
 * Bot Development with DialogFlow (in browser)
 * [Nessie API](nessie/) (http://api.reimaginebanking.com/documentation)
 * [Android Development](android/)
+
+### 01.11.2018
+* Hackathon
+* Worked with Max, Amy, Kyle, and Melida to build [SocialSpend](https://github.com/kyle8998/SocialSpend)

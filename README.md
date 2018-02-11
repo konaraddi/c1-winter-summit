@@ -1,5 +1,5 @@
 # Capital One 2018 Software Engineering Winter Summit
-Attended the Capital One 2018 SWE Winter Summit. Checkout the blog post at https://konaraddio.github.io/experience/2018/01/13/c1-winter-summit.html
+Attended the Capital One 2018 SWE Winter Summit. Checkout the blog post at https://konaraddio.com/tech/2018/01/13/c1-winter-summit.html
 
 ### 01.09.2018
 * [Machine Learning](machine-learning/)
